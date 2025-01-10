@@ -11,9 +11,13 @@
 - Random, User2User, and ALS recommendations models classes, MAP@k metric, and Jaccard Similarity are implemented (see __jaccard_distance.py__, __mapk.py__, __recsys_models.py__)
 
 ### _Competition 1:_
-- 15th place on the private leaderboard in the Kaggle competition on predicting insurance costs (regression problem; implemented in __MSU_competition_1_regression.ipynb__)
+- 15th place on the private leaderboard in the Kaggle competition on predicting insurance costs (a regression problem; implemented in __MSU_competition_1_regression.ipynb__)
 - The competition can be found at _https://www.kaggle.com/competitions/ef-msu-2024-comp-1/overview_
 
 ### _Competition 2:_
-- 13th place on the private leaderboard in the Kaggle competition on the Spotify comments sentiment analysis (classification problem; implemented in __MSU_competition_2_classification.ipynb__)
+- 13th place on the private leaderboard in the Kaggle competition on the Spotify comments sentiment analysis (a classification problem; implemented in __MSU_competition_2_classification.ipynb__)
 - The competition can be found at _https://www.kaggle.com/competitions/ef-msu-2024-comp-2/overview_
+
+### _Competition 3:_
+- 13th place on the private leaderboard in the Kaggle competition on an e-commerce domain recommender system (a recommender system problem implemented in __MSU_competition_3_Recommender_Systems.ipynb__)
+- The competition can be found at _https://www.kaggle.com/competitions/ef-msu-2024-comp-3/overview_
